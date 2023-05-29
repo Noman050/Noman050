@@ -2,7 +2,7 @@
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning Software Engineering From Comsats University Islamabad Pakistan
 - 💞️ I’m looking to collaborate on App development projects
-- 📫 How to reach me contact me on my gmail (nomi.rana2020@gmail.com) or my local pakistani GSM Number (+923116568742)
+- 📫 How to reach me contact me on my gmail (nomi.rana2020@gmail.com) or my local pakistani GSM Numbers (Telenor: +923402125435 ,Zong: +923116568742)
 
 <!---
 Noman050/Noman050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
