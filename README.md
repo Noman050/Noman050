@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noman-ali-2b93611ab/)
+- LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/noman-ali-2b93611ab/)
 - Email: nomi.rana2020@gmail.com
 
 Let's connect and collaborate on exciting projects!
