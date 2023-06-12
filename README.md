@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name](https://github.com/your-profile) 👋
+# Hi there, I'm [Noman Ali](https://github.com/Noman050?tab=repositories) 👋
 ## App Developer | Flutter | C++ | Java | Django | Python | ASP.NET | C# | JavaScript | HTML | CSS
 
 Welcome to my GitHub profile! I'm an app developer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and a brief description of my skills.
@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 ### Flutter Project
 
-- [Project Name](https://github.com/your-project) - Brief project description.
+- [Tasbeeh App](https://github.com/Noman050/Tasbeeh_App) - A Tasbeeh Counter in which user will perform prayer and count it in real time.
 
 ### Python/Django Project
 
-- [Project Name](https://github.com/your-project) - Brief project description.
+- [Project Name](https://github.com/Noman050/Courses_information_App) - Courses App in django in which user can add, search, edit courses.
 
 ### JavaScript/HTML/CSS Project
 
-- [Project Name](https://github.com/your-project) - Brief project description.
+- [Project Name](https://github.com/Noman050/Stikey_Notes) - User can add list of his/her to do lists the data of user will be saved in browsers local storage.
 
 ## Skills
 
@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noman-ali-2b93611ab/)
+- Email: nomi.rana2020@gmail.com
 
 Let's connect and collaborate on exciting projects!
 
