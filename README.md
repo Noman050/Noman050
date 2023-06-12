@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 ### Python/Django Project
 
-- [Project Name](https://github.com/Noman050/Courses_information_App) - Courses App in django in which user can add, search, edit courses.
+- [Courses Web App](https://github.com/Noman050/Courses_information_App) - Courses App in django in which user can add, search, edit courses.
 
 ### JavaScript/HTML/CSS Project
 
-- [Project Name](https://github.com/Noman050/Stikey_Notes) - User can add list of his/her to do lists the data of user will be saved in browsers local storage.
+- [To Do List](https://github.com/Noman050/Stikey_Notes) - User can add list of his/her to do lists the data of user will be saved in browsers local storage.
 
 ## Skills
 
