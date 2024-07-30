@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 ### Flutter Project
 
-- [Tasbeeh App](https://github.com/Noman050/Tasbeeh_App) - A Tasbeeh Counter in which user will perform prayer and count it in real time.
+- [Budget Brews & Bites](https://github.com/Noman050/BudgetBrews_n_Bites) - Recipe Discovery: Explore a wide array of mouthwatering recipes from various cuisines as well as Expense Tracking: Keep tabs on your weekly spending and budget effectively.
 
 ### Python/Django Project
 
-- [Courses Web App](https://github.com/Noman050/Courses_information_App) - Courses App in django in which user can add, search, edit courses.
+- [Courses Web App](https://github.com/Noman050/Courses_information_App) - Courses App in Django where users can add, search, and edit courses.
 
 ### JavaScript/HTML/CSS Project
 
-- [To Do List](https://github.com/Noman050/Stikey_Notes) - User can add list of his/her to do lists the data of user will be saved in browsers local storage.
+- [To Do List](https://github.com/Noman050/Stikey_Notes) - The user can add a list of his/her to-do lists the data of the user will be saved in the browser's local storage.
 
 ## Skills
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm an app developer with experience in various te
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/noman-ali-2b93611ab/)
+- LinkedIn [My Linkedin Profile](https://www.linkedin.com/in/noman-ali-2b93611ab/)
 - Email: nomi.rana2020@gmail.com
 
 Let's connect and collaborate on exciting projects!
