@@ -3,6 +3,9 @@
 
 Welcome to my GitHub profile! I'm an app developer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and a brief description of my skills.
 
+## Current Project
+### [EzeAd](https://www.ezead.com/) 
+ Our mission is to provide you with a seamless and hassle-free experience that sets new standards in the industry. Join us today and discover why EzeAD is the ultimate platform for your needs.
 ## Featured Projects
 
 ### Flutter Project
