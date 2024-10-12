@@ -1,7 +1,7 @@
 # Hi there, I'm [Noman Ali](https://github.com/Noman050?tab=repositories) 👋
 ## Software Engineer | App Developer | Cybersecurity Analyst
 
-Welcome to my GitHub profile! I'm an app developer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and a brief description of my skills.
+Welcome to my GitHub profile! I'm a Software Engineer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and complete description of my skills.
 
 ## Current Project
 ### [EzeAd](https://www.ezead.com/) 
