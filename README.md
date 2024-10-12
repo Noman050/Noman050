@@ -1,3 +1,18 @@
+# Hi there, I'm [Noman Ali](https://github.com/Noman050?tab=repositories) 👋
+## App Developer | Flutter | C++ | Java | Django | Python | ASP.NET | C# | JavaScript | HTML | CSS
+
+Welcome to my GitHub profile! I'm an app developer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and a brief description of my skills.
+
+## Current Project
+### [EzeAd](https://www.ezead.com/) 
+ Our mission is to provide you with a seamless and hassle-free experience that sets new standards in the industry. Join us today and discover why EzeAD is the ultimate platform for your needs.
+## Featured Projects
+### Flutter Project
+- [Budget Brews & Bites](https://github.com/Noman050/BudgetBrews_n_Bites) - Recipe Discovery: Explore a wide array of mouthwatering recipes from various cuisines as well as Expense Tracking: Keep tabs on your weekly spending and budget effectively.
+### Python/Django Project
+- [Courses Web App](https://github.com/Noman050/Courses_information_App) - Courses App in Django where users can add, search, and edit courses.
+### JavaScript/HTML/CSS Project
+- [To Do List](https://github.com/Noman050/Stikey_Notes) - The user can add a list of his/her to-do lists the data of the user will be saved in the browser's local storage.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/im.nomi.rana/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/n4nomi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n4noman/) 
