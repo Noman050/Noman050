@@ -1,5 +1,5 @@
 # Hi there, I'm [Noman Ali](https://github.com/Noman050?tab=repositories) 👋
-## App Developer | Flutter | C++ | Java | Django | Python | ASP.NET | C# | JavaScript | HTML | CSS
+## Software Engineer | App Developer | Cybersecurity Analyst
 
 Welcome to my GitHub profile! I'm an app developer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and a brief description of my skills.
 
