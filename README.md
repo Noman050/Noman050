@@ -1,4 +1,7 @@
-# Hi there, I'm [Noman Ali](https://github.com/Noman050?tab=repositories) 👋
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
+
+<h1 align="center">Hi there, I'm Noman Ali 👋</h1>
+
 ## Software Engineer | App Developer | Cybersecurity Analyst
 
 Welcome to my GitHub profile! I'm a Software Engineer with experience in various technologies. I'm passionate about creating beautiful and efficient applications. Below you'll find some of my highlighted projects and complete description of my skills.
